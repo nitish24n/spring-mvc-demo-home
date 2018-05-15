@@ -5,8 +5,9 @@
 <title>Hello World Page</title>
 </head>
 <body>
-
+<br><br>
 Student Name is : <strong>${ param.studentName }</strong>
-
+<br><br>
+The message : ${message}
 </body>
 </html>
