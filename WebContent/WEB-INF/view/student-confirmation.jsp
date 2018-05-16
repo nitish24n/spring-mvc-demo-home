@@ -5,6 +5,9 @@
 </head>
 <body>
 
-<strong>the student is confirmed : ${student.firstName} ${student.lastName}</strong>
+<h2>the student is confirmed : ${student.firstName} ${student.lastName}</h2>
+<br><br>
+Country : ${student.country}
+
 </body>
 </html>
